@@ -1,0 +1,4 @@
+# Ignore a folder in the root directory
+__pycache__/
+.venv/
+logs/
